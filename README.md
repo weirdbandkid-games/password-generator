@@ -15,4 +15,3 @@ You can just add more characters to the `chars` in `password_generator.py`.
         <img  src="https://discordapp.com/api/guilds/713125432618385500/widget.png?style=banner2" height="76px" draggable="false" alt="Join our Discord!">
     </a>
 </div>
-
