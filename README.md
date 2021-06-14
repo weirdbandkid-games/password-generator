@@ -6,7 +6,7 @@
 1. Open the directory in your terminal/command line.
 2. Run the command `python3 password_generator.py`
 
-# Want it more secure that it already is?
+# Want it more secure than it already is?
 You can just add more characters to the `chars` in `password_generator.py`.
 
 # Discord
