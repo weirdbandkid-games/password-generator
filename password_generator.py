@@ -1,6 +1,6 @@
 import random
 
-chars = "abcdefghijklmopqrstuvwxyzABCDEFGHIJKLMOPQRSTUVWXYZ1234567890&^%$#!@*"
+chars = "abcdefghijklmopqrstuvwxyzABCDEFGHIJKLMOPQRSTUVWXYZ1234567890&;:/\|{}[]-=_+^%$#!@*"
 
 while 1:
     password_len = int(input("What will be the lenght of the password? "))
